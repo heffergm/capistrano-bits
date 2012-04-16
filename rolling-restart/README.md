@@ -1,4 +1,4 @@
-#concurrent-restarts
+#rolling-restart
 ## Rationale
 * rolling restarts
 
